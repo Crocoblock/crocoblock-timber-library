@@ -6,7 +6,6 @@
  * Version:      2.0.0
  * Author:       Crocoblock
  * Author URI:   https://crocoblock.com/
- * Requires PHP: 8.1
  * License:      GPL-3.0+
  * License URI:  http://www.gnu.org/licenses/gpl-3.0.txt
  * Domain Path:  /languages
